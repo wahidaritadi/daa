@@ -1,0 +1,13 @@
+Menghitung luas Lingkaran
+
+Algoritma :
+1.Masukkan pi (π)
+2.Masukkan jari-jari (r)
+3.Luas Lingkaran adalah pi dikalikan jari-jari
+4.Tampilkan luas lingkaran
+
+Pseudocode :
+1. Input pi (π)
+2. Input jari-jari (r)
+3. Luas = π x r x r 
+4. Print luas lingkaran
